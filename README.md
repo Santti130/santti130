@@ -1,50 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=831bff"/>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-
-###
-
-<h3 align="left">My Stats</h3>
-
-###
-
+<!-- ABOUT ME -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=santti130&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+      <samp><h2>ABOUT ME</h2></samp>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
-###
-
-###
-
-<h2 align="left">SO</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+<!-- STATS -->
+<br>
+<div align="center" >
+  <samp><h2>MY STATS</h2></samp>
+  <img src="https://streak-stats.demolab.com?user=santti130&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+</br>
 
-
-
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
+<!-- tools -->
+<br>
+<div align="center">
+  <samp><h2>TOOLS</h2></samp>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="html5 logo"  />
@@ -57,41 +30,41 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="html5 logo"  />
   <img width="10" />
+  
+  #
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
 </div>
+</br>
 
 
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-
-<div align="left">
+<!-- CODE WITH -->
+<br>
+<div align="center">
+  <samp><h2>I CODE WITH</h2></samp>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img width="12" />
 </div>
+</br>
 
 
 
-###
-
-<h2 align="left">In procces...</h2>
-
-###
-
-<div align="left">
+<!-- IN PROCESS ... -->
+<br>
+<div align="center">
+  <samp><h2>IN PROCCESS</h2></samp>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="c logo"  />
   <img width="12" />
 </div>
-
+</br>
 
 ###
 
@@ -100,3 +73,4 @@
 ###
 
 ###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=831bff&section=footer"/>
