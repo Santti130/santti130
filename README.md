@@ -2,17 +2,22 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-      <samp><h2>ABOUT ME</h2></samp>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <samp><h1>¡HELLO, WELCOME TO MY GITHUB!</h1></samp>
+<p>🍂 Proficient in Git, Linux, and Bash scripting</p>
+<p>💻 Exploring programming languages to deepen understanding of core principles</p>
+<p>🛡️ Aiming to build a successful career in software development and ethical hacking</p>
 </div>
 
 <!-- STATS -->
 <br>
-<div align="center" >
+<div align="center">
   <samp><h2>MY STATS</h2></samp>
-  <img src="https://streak-stats.demolab.com?user=santti130&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://streak-stats.demolab.com?user=santti130&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=santti130&show_icons=true&theme=midnight-purple" height="185" alt="GitHub stats" />
+  </div>
 </div>
-</br>
+<br>
 
 <!-- tools -->
 <br>
